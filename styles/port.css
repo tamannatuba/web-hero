@@ -163,3 +163,7 @@ footer{
     margin-top: 100px;
     padding:130px 200px ;
 }
+
+.footer-column{
+    width: 50%;
+}
